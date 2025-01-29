@@ -1,0 +1,26 @@
+{
+  "name": "book-scraper",
+  "version": "1.0.0",
+  "description": "introduccing to web scrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelguirado/book-scraping.git"
+  },
+  "keywords": [
+    "scraping"
+  ],
+  "author": "manuel guirado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelguirado/book-scraping/issues"
+  },
+  "homepage": "https://github.com/manuelguirado/book-scraping#readme",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  }
+}
