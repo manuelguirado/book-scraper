@@ -1,4 +1,4 @@
-
+// This file is responsible for creating a browser instance using puppeteer
 const puppeteer = require('puppeteer');
 //init the browser
 async function startbrowser() {
